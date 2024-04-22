@@ -1,0 +1,52 @@
+/* Comentários! <3 */
+body {
+    background-color: khaki;
+    color: rgb(132, 89, 8);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.gif_back{
+    background-color: coral;
+    align-items: center;
+    border-radius: 2rem;
+    width: 350px;
+    height:300px;
+    margin-left: 590px;
+    margin-right: 500px;
+}
+
+.conteudo{
+    text-align: center;
+    background-color:rgb(213, 188, 105);
+    color: rgb(132, 89, 8);
+    padding: 2rem;
+    border: none;
+    border-radius: 3rem;
+    margin-top: 2rem;
+    margin-left: 35rem;
+    margin-right: 35rem;
+}
+
+.rodape {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+
+#input{
+    border: none;
+    border-radius: 5rem;
+}
+
+#botao{
+    border: none;
+    border-radius: 5rem;
+    width: 5rem;
+}
+
+#botao:hover{
+    background-color:rgb(133, 118, 68);
+    color: white;
+    cursor: pointer;
+}
